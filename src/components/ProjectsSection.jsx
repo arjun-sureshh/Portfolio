@@ -27,7 +27,7 @@ const projects = [
       "Full-featured e-commerce website built with the MERN stack, featuring user authentication, product management, and secure checkout.",
     image: "/projects/e-commerce-project.png",
     tags: ["React","TypeScript", "Node.js", "MongoDB","Express","Material ui"],
-    demoUrl: "https://bee-store.up.railway.app/",
+    demoUrl: "https://bee-store-client-side.vercel.app/",
     githubUrl: "https://github.com/arjun-sureshh/BeeStore-Client-Side",
   },
   {
